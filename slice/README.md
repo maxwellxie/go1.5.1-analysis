@@ -8,4 +8,4 @@ type slice struct {
 }
 ```
 当创建和初始化一个切片时，其底层数据入下图所示：  
-![avatar](graph/slice.png)
+![avatar](../graph/slice.png)
